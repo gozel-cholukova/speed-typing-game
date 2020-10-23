@@ -10,3 +10,38 @@ const scorDisplay = docuemnt.querySelector('#score');
 const timeDisplay = document.querySelector('#time');
 const message = document.querySelector('#message');
 const seconds = document.querySelector('#seconds');
+
+const words = [
+  'hot',
+  'river',
+  'stubborn',
+  'definition',
+  'javascript',
+  'juice',
+  'echo',
+  'developer',
+  'symptom',
+  'covid-19',
+  'siblings',
+  'joke',
+  'master',
+  'space',
+  'magic',
+  'nutrition',
+  'laughter',
+  'runaway',
+  'coctails',
+  'revolver',
+  'hero',
+  'investigation',
+  'establisment',
+  'baby girl',
+  'darling',
+  'husband',
+  'lucky',
+  'state',
+  'generate',
+  'family',
+  
+
+]
